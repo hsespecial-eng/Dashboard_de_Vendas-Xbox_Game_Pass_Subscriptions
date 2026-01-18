@@ -20,7 +20,7 @@ O dashboard foi construído para responder a perguntas de negócio essenciais, f
 ## 📥 Acesso ao Arquivo
 Você pode baixar o arquivo completo do dashboard para interagir com os filtros e segmentadores de dados através do link abaixo:
 
-> [👉 Clique aqui para baixar o Dashboard](Xbox Game Pass - Sales Performance Dashboard.xlsx)
+> [👉 Clique aqui para baixar o Dashboard](Xbox_Game_Pass-Sales_Performance_Dashboard.xlsx)
 
 ---
 *Este projeto faz parte do desafio prático de análise de dados do Bootcamp da DIO.*
